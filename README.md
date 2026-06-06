@@ -63,3 +63,23 @@ This project analyzes e-commerce sales data using Microsoft Excel. The goal was 
 - Microsoft Excel
 - GitHub
 
+## Project Screenshots
+
+### Cleaned Data
+![Cleaned Data](screenshots/cleaned-data.png.png)
+
+### Dashboard 1
+![Dashboard 1](screenshots/dashboard-1.png.png)
+
+### Dashboard 2
+![Dashboard 2](screenshots/dashboard-2.png.png)
+
+### Dashboard 3
+![Dashboard 3](screenshots/dashboard-3.png.png)
+
+### Project Summary
+![Project Summary](screenshots/project-summary.png.png)
+
+
+
+
